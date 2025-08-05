@@ -62,6 +62,13 @@ body {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
 
+.mpal-logo {
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
